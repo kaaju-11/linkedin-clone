@@ -1,6 +1,8 @@
 import User from "../models/user.model.js";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
+import {sendWelcomeEmail} from "../emails/emailHandlers.js";
+
 export const signup = async(req, res) =>{
    try{
      const {name, username, email, password} = req.body;
@@ -32,8 +34,17 @@ export const signup = async(req, res) =>{
          secure: process.env.NODE_ENV === "production" // prevent man-in-the middle attack
      });
      res.status(201).json({message: "User created successfully"});
-      // postman
+      // postman -> http://localhost:5000/api/v1/auth/signup
+
      // send welcome email
+      
+     const profileUrl = process.env.CLIENT_URL + "/profile/" +user.username
+
+     try{
+      await sendWelcomeEmail(user.email, user.name, profileUrl);
+     }catch(emailError){
+        console.log("error in sending welcome email", emailError.message);
+     }
    }catch(error){
     console.log("error in signup", error.message);
     res.status(500).json({message: "Internal server error"});
