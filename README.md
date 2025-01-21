@@ -72,10 +72,29 @@ This is a LinkedIn Clone application built using modern web development technolo
    ```
 4.  **Start the server**
     ```bash
-    npm start
+    npm run start
     ```
 
 # Configuration
 - **`.env`**: Set environment variables
+
+**`
+PORT=5000
+MONGO_URI=<your_mongo_uri>
+
+JWT_SECRET=<yourverystrongsecret>
+
+NODE_ENV=development
+
+MAILTRAP_TOKEN=<your_mailtrap_token>
+EMAIL_FROM=mailtrap@demomailtrap.com
+EMAIL_FROM_NAME=<Your_Name>
+
+CLOUDINARY_API_KEY=<your_cloudinary_api_key>
+CLOUDINARY_API_SECRET=<your_cloudinary_api_secret>
+CLOUDINARY_CLOUD_NAME=<your_cloudinary_cloud_name>
+
+CLIENT_URL=http://localhost:5173
+`**
   
 Open your browser and navigate to `http://localhost:5000` to see the application in action.
