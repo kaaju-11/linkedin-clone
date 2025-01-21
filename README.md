@@ -62,11 +62,11 @@ This is a LinkedIn Clone application built using modern web development technolo
     ```bash
     git clone git@github.com:kaaju-11/linkedin-clone.git
     ```
-3. **Go to the project directory**
+2. **Go to the project directory**
    ```bash
    cd linkedin-clone
    ```
-5.  **Install dependencies**
+3.  **Install dependencies**
    ```bash
    npm i
    ```
