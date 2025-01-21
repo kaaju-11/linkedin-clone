@@ -68,8 +68,8 @@ This is a LinkedIn Clone application built using modern web development technolo
    ```
 5.  **Install dependencies**
    ```bash
-  npm i
-```
+   npm i
+   ```
 4.  **Start the server**
     ```bash
     npm start
