@@ -2,7 +2,7 @@
 
 This is a LinkedIn Clone application built using modern web development technologies. The app replicates key features of LinkedIn, providing a social platform for professional networking.
 
-#Features
+# Features
 
 • User Authentication: Sign up, log in, and log out functionality with secure authentication.
 
