@@ -94,7 +94,7 @@ CLIENT_URL=http://localhost:5173
 ```
 # Run this app locally
 ```bash
-    npm run start
+    npm run build
 ```
 # Start the server
 ```bash
