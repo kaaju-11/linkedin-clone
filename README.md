@@ -66,7 +66,7 @@ This is a LinkedIn Clone application built using modern web development technolo
    ```bash
    cd linkedin-clone
    ```
-3.  **Install dependencies**
+3. **Install dependencies**
    ```bash
    npm i
    ```
@@ -94,11 +94,11 @@ CLIENT_URL=http://localhost:5173
 ```
 # Run this app locally
 ```bash
-    npm run build
+npm run build
 ```
 # Start the server
 ```bash
-    npm run start
+npm run start
 ```
   
 Open your browser and navigate to `http://localhost:5000` to see the application in action.
