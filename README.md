@@ -59,14 +59,20 @@ This is a LinkedIn Clone application built using modern web development technolo
 #Setup and Installation
 
 1. **Clone the Repository**
-2. **Go to the project directory**
-3.  **Install dependencies**
+    ```bash
+    git clone git@github.com:kaaju-11/linkedin-clone.git
+    ```
+3. **Go to the project directory**
+   ```bash
+   cd linkedin-clone
+   ```
+5.  **Install dependencies**
    ```bash
   npm i
 ```
 4.  **Start the server**
     ```bash
-  npm run dev
-```
+    npm start
+    ```
 
 Open your browser and navigate to `http://localhost:5000` to see the application in action.
