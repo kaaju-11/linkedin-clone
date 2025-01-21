@@ -25,9 +25,9 @@ This is a LinkedIn Clone application built using modern web development technolo
 • Notifications: Get notified about connection requests, post interactions, and updates in real-time.
 
 
-##Technologies Used
+## Technologies Used
 
-#Frontend
+# Frontend
 
 • React Vite: Fast and optimized development environment.
 
@@ -35,7 +35,7 @@ This is a LinkedIn Clone application built using modern web development technolo
 
 • Daisy UI: Extends Tailwind CSS with pre-designed components to enhance UI/UX.
 
-#Backend
+# Backend
 
 • Node.js: Server-side JavaScript runtime.
 
@@ -44,7 +44,7 @@ This is a LinkedIn Clone application built using modern web development technolo
 • MongoDB: NoSQL database for storing user data and application content.
 
 
-#Usage
+# Usage
 
 • Register a new account or log in with existing credentials.
 
@@ -56,7 +56,7 @@ This is a LinkedIn Clone application built using modern web development technolo
 
 • Receive and manage notifications for all updates.
 
-#Setup and Installation
+# Setup and Installation
 
 1. **Clone the Repository**
     ```bash
@@ -75,7 +75,7 @@ This is a LinkedIn Clone application built using modern web development technolo
     npm start
     ```
 
-## Configuration
+# Configuration
 - **`.env`**: Set environment variables
   
 Open your browser and navigate to `http://localhost:5000` to see the application in action.
