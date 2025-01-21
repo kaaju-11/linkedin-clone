@@ -4,25 +4,25 @@ This is a LinkedIn Clone application built using modern web development technolo
 
 # Features
 
-• User Authentication: Sign up, log in, and log out functionality with secure authentication.
+• **` User Authentication `**: Sign up, log in, and log out functionality with secure authentication.
 
-• Profile Management: Users can create, edit, and view profiles with professional details.
+• **` Profile Management `**: Users can create, edit, and view profiles with professional details.
 
-• Post Creation: Create and share posts to connect with your network.
+• **` Post Creation `**: Create and share posts to connect with your network.
 
-• Feed: View posts from your connections in a dynamic feed.
+• **` Feed `**: View posts from your connections in a dynamic feed.
 
-• Connections: Add, remove, and manage connections.
+• **` Connections `**: Add, remove, and manage connections.
 
-• Real-time Updates: Experience real-time interactions with seamless user updates.
+• **` Real-time Updates `**: Experience real-time interactions with seamless user updates.
 
-• Welcome Email: Users receive a welcome email upon successful registration.
+• **` Welcome Email `**: Users receive a welcome email upon successful registration.
 
-• Connection Requests: Send, accept, or decline connection requests.
+• **` Connection Requests `**: Send, accept, or decline connection requests.
 
-• Comments: Comment on any post, including your own.
+• **` Comments `**: Comment on any post, including your own.
 
-• Notifications: Get notified about connection requests, post interactions, and updates in real-time.
+• **` Notifications `** : Get notified about connection requests, post interactions, and updates in real-time.
 
 
 ## Technologies Used
@@ -31,17 +31,17 @@ This is a LinkedIn Clone application built using modern web development technolo
 
 • **` React Vite `**: Fast and optimized development environment.
 
-• Tailwind CSS: For designing responsive and modern user interfaces.
+• **` Tailwind CSS `**: For designing responsive and modern user interfaces.
 
-• Daisy UI: Extends Tailwind CSS with pre-designed components to enhance UI/UX.
+• **` Daisy UI `**: Extends Tailwind CSS with pre-designed components to enhance UI/UX.
 
 # Backend
 
-• Node.js: Server-side JavaScript runtime.
+• **` Node.js `**: Server-side JavaScript runtime.
 
-• Express: Minimal and flexible Node.js web application framework.
+• **` Express `**: Minimal and flexible Node.js web application framework.
 
-• MongoDB: NoSQL database for storing user data and application content.
+• **` MongoDB `**: NoSQL database for storing user data and application content.
 
 
 # Usage
