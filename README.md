@@ -29,7 +29,7 @@ This is a LinkedIn Clone application built using modern web development technolo
 
 # Frontend
 
-• React Vite: Fast and optimized development environment.
+• **` React Vite `**: Fast and optimized development environment.
 
 • Tailwind CSS: For designing responsive and modern user interfaces.
 
