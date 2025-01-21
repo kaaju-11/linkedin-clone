@@ -75,4 +75,7 @@ This is a LinkedIn Clone application built using modern web development technolo
     npm start
     ```
 
+## Configuration
+- **`.env`**: Set environment variables
+  
 Open your browser and navigate to `http://localhost:5000` to see the application in action.
